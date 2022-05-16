@@ -7,6 +7,7 @@
  * [Plato](https://www.platohq.com/)
  * [SCORE](https://www.score.org/)
  * [Tech Leader Mentoring Group](https://marcusblankenship.com/tech-lead-mentoring-group/)
+ * [The Mentoring Club](https://www.mentoring-club.com/) - A non-profit mentoring group.
 
 ## Books
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
@@ -31,7 +32,6 @@
  * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y)
  * [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0)
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
- * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
  * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
  * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
@@ -70,6 +70,14 @@
  * [The 15 Commitments of Conscious Leadership: A New Paradigm for Sustainable Success](https://www.amazon.ca/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/) - A book that covers some interesting insights for leadership in the short-term vs the long-term.
  * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.ca/Making-Manager-What-Everyone-Looks/dp/0735219567) - This book provides a lot of practical tips for early management.
  * [Becoming a Manager](https://www.amazon.com/Becoming-Manager-Managers-Challenges-Leadership/dp/1633696960) - A book full of useful tips for new managers.
+ * [Leading the Unleadable: How to Manage Mavericks, Cynics, Divas, and Other Difficult People](https://www.amazon.com/Leading-Unleadable-Manage-Mavericks-Difficult/dp/0814437605) - This book provides tips for dealing with the difficult people on your team.
+ * [Just Work: Get Sh*t Done, Fast & Fair](https://kimmalonescott.com/books/just-work-book/) - Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' 
+ * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2) - This book provides a lot of insights on how ownership is a key success factor. Jocko Willink shares his experiences as a Navy SEALs but gives a lot of enterprise examples on how we should push for more ownership as leaders.
+ * [Think Again: The Power of Knowing What You Don't Know](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107) - A good book that highlights the importance to being open to new ideas and rethinking assumptions.
+ * [Multipliers](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395) - How The Best Leaders Make Everyone Smarter
+ * [Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs](https://www.amazon.com/gp/product/B08GF7P3G8/ref=as_li_tl) - This book focuses on specifics for engineering managers.
+ * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/gp/product/B07QYCHJ7V/ref=as_li_tl) - This book does a good job focusing on the challenges of being an engineering manager and provides examples of solutions.
+ * [The Phoenix Project](https://www.amazon.com/gp/product/1942788290/ref=as_li_tl) - This book teaches about DevOps practices and looks at managing teams from perspective of inputs and outputs.
 
 ## Videos
  * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
@@ -91,6 +99,8 @@
  * [How vulnerability makes you a better leader | Tracy Young](https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED) - TED Talk by Tracy Young who shares her story and demonstrates vulnerability and how important it is as a leader.
  * [Patty McCord: 8 lessons on building a company people enjoy working for](https://www.ted.com/talks/patty_mccord_8_lessons_on_building_a_company_people_enjoy_working_for) - An excellent TED talk by Patty McCord providing short tips for a better company working enviornment
  * [How to transition to a new manager role moving from an individual contributor?](https://www.youtube.com/watch?v=QwN0xLBbqaQ) - A short video with useful tips when you're making the transition from an individual contributor to a manager role.
+ * [Guidance Counselor 2.0 w/Ryan Burgess on Hiring and Leadership in Tech](https://www.youtube.com/watch?v=9_BmKocysd4&ab_channel=TaylorDesseyn) - An interview with Ryan Burgess talking about hiring.
+ * [Unicorn Finders w/Ryan Burgess + Netflix Engineer Manager on Leadership in Tech](https://www.youtube.com/watch?v=neidYqY4VPc&t=847s&ab_channel=TheUnicornFinders) - A panel discussion talking about Engineering Management.
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
@@ -120,6 +130,8 @@
  * [Leading leaders who lead engineers](https://changelog.com/podcast/453) - A podcast episode that discusses growing leaders with Lara Hogan, author of Resilient Management
  * [Front End Happy Hour - Individual contributor to manager](https://frontendhappyhour.com/episodes/individual-contributor-to-manager-transitioning-into-a-bartender/) - This podcast episode provides a lot of great insights and tips for transitioning from an individual contributor to a manager.
  * [The Tech Exec Podcast](https://www.techexecpodcast.com/) - A podcast for CTOs, VPs, and other leaders in Tech wanting to instill vision instead of running a kindergarten, and working on creating high performant autonomous teams
+ * [alphalist Podcast | Technical Leadership and Technology for Technical Leaders](https://alphalist.com/podcast/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=podcast) - Learn about technical leadership, technological trends and more from top CTOs and other technical leaders. A podcast for CTOs, VPs, and other leaders in Tech wanting to improve and grow their knowledge through interviews of top tech thought leaders.
+ * [Developing Leadership - Episode 5 | Should Engineers be Masters of None? with Anton Drukh from Snyk](https://www.developingleadership.co/episode/episode-5-should-engineers-be-masters-of-none-with-anton-drukh-from-snyk) - Engineering leaders build organizations, and do more than just contribute lines of code.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -220,6 +232,17 @@
  * [Better Engineering Management: Top 3 Things Product Managers Dislike About Engineering Managers](https://www.zumvie.com/better-engineering-management-top-3-things-product-managers-dislike-about-engineering-managers/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link) - This article shares what engineering managers can do to better their relationship with product managers.
  * [The 3 Ways An Engineering Managers Role Differ Between a Startup and a Corporate](https://www.zumvie.com/the-3-ways-an-engineering-managers-role-differ-between-a-startup-and-a-corporate/?utm_source=github&utm_medium=repository&utm_campaign=content_views_from_github&utm_content=content_link) - This article covers the 3 ways the engineering manager’s role differs between a startup and an established corporation.
  * [How to Intervene When a Manager Is Gaslighting Their Employees](https://hbr.org/2021/09/how-to-intervene-when-a-manager-is-gaslighting-their-employees) - A good article outlining what to look for when a manager might not be working collaboratively with their team.
+ * [10 Things I Wish I Knew as a New Manager](https://fellow.app/blog/management/things-you-need-to-know-as-a-new-manager) - A good article that helps prepare new managers
+ * [The Top 5 Engineering Management Questions Answered](https://www.zumvie.com/the-top-5-engineering-management-questions-answered/) - An article highlighting 5 engineering management values.
+ * [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) - Five helpful tips in this article to help build trust in a team.
+ * [5 New Rules for Leading a Hybrid Team](https://hbr.org/2021/11/5-new-rules-for-leading-a-hybrid-team) - Some great ideas for improving the hybrid working model for your team.
+ * [Managering in terrible times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) - An article with some good insights into how to manage during difficult times
+ * [Forget New Year’s Resolutions and Conduct a ‘Past Year Review’ Instead](https://tim.blog/2021/12/27/past-year-review/) - An interesting perspective on New Year's resolutions and focusing more on the year in review from the past year.
+ * [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - An article outlining how to prioritize better as a leader.
+ * [Overcoming Imposter Syndrome When Starting a Career in Tech￼](https://doordash.engineering/2022/02/03/overcoming-imposter-syndrome-when-starting-a-career-in-tech%ef%bf%bc/) - An interesting article that may help some managers who may be suffering with imposter syndrome.
+ * [The Only Place to Lead is From the Front](https://www.inc.com/tony-hunter/the-only-place-to-lead-is-from-front.html) - A good article that helps leaders prepare for the challenging times and get ahead of them.
+ * [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/) - As a company’s operations grow, new systems and approaches are adopted to cope with extra load, more use cases, or more constraints. From time to time, engineers need to migrate over from an old system or approach, to a new one.
+ * [Which commonly-used metrics aren't working and why?](https://leaddev.com/reporting-metrics/flawed-five-engineering-productivity-metrics) - An article highlighting metrics that don't work for tracking engineering productivity
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
@@ -227,11 +250,13 @@
  * [Better Allies](https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6) - This is a must have resource in your inbox. Each week there are five great tips to help foster a more inclusive environment.
  * [CTO Insights with Tosho Trajanov](https://insights.toshotrajanov.com/) - Weekly reading on software engineering & technical leadership.
  * [Fellow TLDR newsletter](https://fellow.app/newsletter/) - Helpful leadership tips in a regular newsletter.
+ * [Level Up](https://levelup.patkua.com/) - A curated newsletter for leaders in tech.
 
 ## Communities
  * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
  * [Engineering Managers Slack group](https://engmanagers.github.io/) - A Slack group for Engineering Managers to connect and learn from one another
  * [Zumvie Slack Community](https://www.zumvie.com/slack-community/?utm_source=github&utm_medium=repository&utm_campaign=slack_community&utm_content=join_link) - Created by Zumvie, This Slack community is for Engineering Managers to connect and learn from one another-With AMA's, Lean coffees, etc.
+ * [alphalist Community | Network for Technical Leaders](https://alphalist.com/?utm_source=github&utm_medium=Referral&utm_campaign=outreach&utm_content=community) - A community where technical leaders (e.g. engineering managers, CTOs etc.)  share ideas and advice on an active Slack group and at events.  Ideal for those with a tech product (e.g. They discourage CTO consultants, recruiters, and agencies from joining). 
 
 ## Courses
  * [Engineering Management Interview Course](https://www.tryexponent.com/courses/engineering-management) - This Try Exponent course on engineering leadership has a lot of useful topics to help prepare anyone for interviewing for an engineering manager role.
